@@ -1,0 +1,3 @@
+Navbar(pointer),
+Jumbotron(image, linear gradient),
+Responsive website(mobile version)
